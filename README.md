@@ -1,3 +1,5 @@
+# PLEASE READ THE [ToS](https://github.com/omxromxr/citizenofearth/blob/main/ToS)
+
 # citizenofearth
 🌍 Citizen of Earth
 
@@ -67,3 +69,6 @@ Welcome, citizen.
 
 Citizen of Earth Project
 One planet, One humanity.
+
+
+PLEASE READ THE [ToS](https://github.com/omxromxr/citizenofearth/blob/main/ToS)
